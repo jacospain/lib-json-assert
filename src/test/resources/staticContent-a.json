@@ -1,0 +1,14 @@
+{
+  "logoPath": "logo.svg",
+  "featureConfiguration":
+    {
+      "enableFeatureA": false,
+      "enableFeatureB": true,
+      "experimentalFeatureConfiguration":
+        {
+          "enableExperimentOne": false,
+          "enableExperimentTwo": true
+        }
+    },
+  "errorNotificationRate": "asdf"
+}
